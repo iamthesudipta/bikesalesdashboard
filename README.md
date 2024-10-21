@@ -22,3 +22,5 @@ Based on Commute Distance, we observe that most cars are used for commutes of up
 
 Other key variables, such as Education, Region, and Marital Status, also influence car purchases but are dependent on specific conditions.
 
+
+
