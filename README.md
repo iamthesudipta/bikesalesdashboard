@@ -10,8 +10,6 @@ After rigorous testing of the data, they provided a compact and impactful dashbo
 ![image](https://github.com/user-attachments/assets/07d11774-dbb1-4170-9f28-e5d09d3db413)
 
 
-Here's a refined version of the text for better clarity and grammar:
-
 Let’s understand the dashboard:
 
 Based on average income across gender, the data shows that males have a higher income compared to females. Additionally, those with higher incomes are more likely to purchase cars.
